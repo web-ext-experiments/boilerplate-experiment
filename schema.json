@@ -1,0 +1,20 @@
+[
+  // Enter the schema here. For example:
+  //
+  //{
+  //  "namespace": "hello", // For example: browser.hello.*
+  //  "description": "Hello world",
+  //
+  // "permissions": ["experiments.boilerplate"],
+  // // The permission should start with "experiments" and end with
+  // // the namespace for this experiment, "boilerplate".
+  // "functions": [ // The functions etc exposed by this experiment.
+  //    {
+  //      "name": "hello",
+  //      "type": "function",
+  //      "description": "Returns the string \"Hello, world\"",
+  //      "parameters": []
+  //    }
+  //  ]
+  //}
+]
