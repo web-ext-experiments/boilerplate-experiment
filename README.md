@@ -6,12 +6,10 @@ This is a boilerplate extension for experiments. It *is not* designed to work ou
 To use (on Linux or OS X):
 
 ```
-git clone https://github.com/web-ext-experiments/boilerplate-experiment
-cd boilerplate-experiment
-rm -r .git
+curl -L https://github.com/web-ext-experiments/boilerplate-experiment/archive/master.tar.gz | tar zxf -
 ```
 
-This will clone the repository and remove the .git configuration so that you can use your own source control.
+This will download this repository without the git configuration so that you can use your own source control tool as needed.
 
 Next steps, the order is not important:
 * `api.js` is where the code for your API is added.
