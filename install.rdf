@@ -12,10 +12,7 @@
     in api.js and schema.json.
   -->
   <Description about="urn:mozilla:install-manifest"
-               em:id="boilerplate@experiments.addons.mozilla.org"
-               em:name="Boilerplate API"
                em:type="256"
-               em:version="0.1"
                em:description="Boilerplate api"
                em:creator="Mozilla">
     
@@ -25,5 +22,9 @@
                    em:minVersion="50.0"
                    em:maxVersion="*"/>
     </em:targetApplication>
+
+    <em:id>boilerplate@experiments.addons.mozilla.org</em:id>
+    <em:name>Boilerplate API</em:name>
+    <em:version>0.1</em:version>
   </Description>
 </RDF>
